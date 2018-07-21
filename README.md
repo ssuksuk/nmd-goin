@@ -1,2 +1,2 @@
 # nmd-goin
-Repository for nmdgoin project at Thai Naval Medicine Department
+Repository for healthcare data extraction project at Royal Thai Naval Medical Department
